@@ -38,13 +38,13 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 <details>
 <summary><b> ✐ Contáctos</b></summary>
 
-🜸 https://wa.me/5218713339906
+🜸 https://wa.me/51974349287
 
-🜸 https://wa.me/5351524614
+🜸 https://wa.me/51974349287
 
-🜸 https://wa.me/573205853665
+🜸 https://wa.me/51974349287
 
-🜸 https://wa.me/573106909511
+🜸 https://wa.me/51974349287
 
 </details>
 
