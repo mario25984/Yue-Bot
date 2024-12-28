@@ -38,7 +38,7 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.creadorbot = '5213318360934'
+global.creadorbot = '51974349287'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -57,7 +57,7 @@ global.packname = '⪛✰ Yue-Bot ✰⪜'
 global.botname = 'Yue-Bot'
 global.wm = 'Yue-Bot'
 global.author = 'yue'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ: Yue-Bot'
+global.dev = '© Yue-Bot'
 global.textbot = 'Yue-Bot'
 global.moneda = 'COINS'
 global.welcom1 = 'Edita Con !setwelcome'
