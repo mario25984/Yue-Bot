@@ -18,17 +18,17 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +573218138672
+global.botNumberCode = '' //Ejemplo: +51974349287
 global.confirmCode = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['5213339577315', 'Propietario 👑', true],
-  ['5213318360934', 'Owner ✨️', true],
-  ['5493876639332'],
-  ['5218713339906'],
-  ['573237649689']
+  ['51974349287', 'Propietario 👑', true],
+  ['51974349287', 'Owner ✨️', true],
+  ['51974349287'],
+  ['51974349287'],
+  ['51974349287']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -56,7 +56,7 @@ global.jadi = 'YueJadiBot'
 global.packname = '⪛✰ Yue-Bot ✰⪜'
 global.botname = 'Yue-Bot'
 global.wm = 'Yue-Bot'
-global.author = 'Made By Cuervo-Team-Supreme'
+global.author = 'yue'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ: Yue-Bot'
 global.textbot = 'Yue-Bot • Powered By Cuervo-Team-Supreme'
 global.moneda = 'COINS'
@@ -71,7 +71,7 @@ global.catalogo = 'https://files.catbox.moe/4d5ba7.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.enlace = 'https://whatsapp.com/channel/0029Vatvv7w2P59uIo6EHK3d'
+global.enlace = 'https://whatsapp.com/channel/0029VagIh8OLdQeWqn2frL2K'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
