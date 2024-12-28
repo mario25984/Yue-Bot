@@ -30,7 +30,7 @@ font: 'chrome',
 align: 'center',
 colors: ['red']
 });
-say(`Developed By • Cuervo-Team-Supreme`, {
+say(`yue`, {
 font: 'console',
 align: 'center',
 colors: ['yellow']
