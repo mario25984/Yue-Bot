@@ -9,8 +9,8 @@ Contacta Con yue
 
 <a href="http://wa.me/51974349287" target="blank"><img src="https://img.shields.io/badge/yue-Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅𝐂𓆰ࣩ֟፝𓆪
-<a href="http://wa.me/5212722801554" target="blank"><img src="https://img.shields.io/badge/Cuervo-Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+Contacta Con yue
+<a href="http://wa.me/51974349287" target="blank"><img src="https://img.shields.io/badge/yue-Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 ![YueBot](https://files.catbox.moe/4d5ba7.jpg)
 
 ---
