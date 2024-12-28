@@ -27,7 +27,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 <details>
  <summary><b> ✐ Info Bot2</b></summary>
 
-**Buenas Soy Cuervo El Editor Y Creador De Gran Parte Del Bot Para Decir Que Si Lo Vas A Editar Dejes Tu Estrella Y Disfruta De Borrar Los Créditos Que Están En Absolutamente Todo El Bot Adiós**
+**Buenas Soy yue El Editor Y Creador De Gran Parte Del Bot Para Decir Que Si Lo Vas A Editar Dejes Tu Estrella Y Disfruta De Borrar Los Créditos Que Están En Absolutamente Todo El Bot Adiós**
 
 </details>
 
@@ -127,7 +127,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 [`🜸 Instalar Cloud Shell Clic Aqui`](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
 
 ```bash
-> git clone https://github.com/Nimodo83/Yue-Bot 
+> git clone https://github.com/mario25984/Yue-Bot
 ```
 
 ```bash
@@ -179,7 +179,7 @@ Contacta Con ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐎𝐅
 
 ✐ Descargar e instala Yarn [`🜸 Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-> git clone https://github.com/Nimodo83/Yue-Bot 
+> git clone https://github.com/mario25984/Yue-Bot
 ```
 
 ```bash
