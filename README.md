@@ -4,7 +4,7 @@
 <p align="center">🜸 WhatsApp Bot Node-Js.</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&lines=©+Yue-Bot;©+Powered+By+yie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&lines=©+Yue-Bot;yue)](https://git.io/typing-svg)
 Contacta Con yue
 
 <a href="http://wa.me/51974349287" target="blank"><img src="https://img.shields.io/badge/yue-Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
