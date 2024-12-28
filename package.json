@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/Nimodo83/Yue-Bot",
+"homepage": "https://github.com/mario25984/Yue-Bot",
 "author": {
-"name": "Nimodo83"
+"name": "yue"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Nimodo83/Yue-Bot.git"
+"url": "git+https:https://github.com/mario25984/Yue-Bot.git"
 },
 "bugs": {
-"url": "https://github.com/Nimodo83/Yue-Bot/issues"
+"url": "https:https://github.com/mario25984/Yue-Bot/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
