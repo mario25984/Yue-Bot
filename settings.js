@@ -80,12 +80,12 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.ch = {
-ch1: '120363229122990393@newsletter',
-ch2: '120363319941046209@newsletter',
-ch3: '120363358176207268@newsletter',
-ch4: '120363205895430548@newsletter',
+ch1: '120363379312047212@newsletter',
+ch2: '120363300847170506@newsletter',
+ch3: '120363301683324915@newsletter',
+ch4: '120363301972046069@newsletter',
 }
-global.channelid = '120363229122990393@newsletter'
+global.channelid = '120363188791250733@newsletter'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.cheerio = cheerio
