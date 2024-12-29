@@ -232,16 +232,16 @@ Contacta Con yue
 ---
 
 ### **`✰ COLABORADORES`**
-<a href="https://github.com/Nimodo83/Yue-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Nimodo83/Yue-Bot" /> 
+<a href="https://github.com/mario25984/Yue-Bot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=mario25984/Yue-Bot" /> 
 </a>
 
 ### **`✐ PROPIETARIO`**
 <a
-href="https://github.com/Nimodo83"><img src="https://github.com/Nimodo83.png" width="130" height="130" alt="ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐎𝐅𝐂𓆰ࣩ֟፝𓆪"/></a>
+href="https://github.com/mario25984"><img src="https://github.com/mario25984.png" width="130" height="130" alt="yue𓆪"/></a>
 
 ### **`🜸 CREDITOS`**
 <a
 href="https://github.com/OfcKing"><img src="https://github.com/OfcKing.png" width="130" height="130" alt="Dev-Diego"/></a>
 
-[© Powered By Cuervo-Team-Supreme ✰](https://whatsapp.com/channel/0029VaMi8cn9cDDQaoeY7P3u)
+[© yue](https://whatsapp.com/channel/0029VaMi8cn9cDDQaoeY7P3u)
